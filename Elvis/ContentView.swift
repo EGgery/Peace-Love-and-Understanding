@@ -1,4 +1,4 @@
-//
+// 
 //  ContentView.swift
 //  Elvis
 //
@@ -58,4 +58,3 @@ struct ContentView: View {
 #Preview {
     ContentView()
 }
-
